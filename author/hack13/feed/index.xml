@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Timothy Rogers &#8211; Zadaroo</title>
+	<atom:link href="/author/hack13/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Public Domain OpenSim Resources</description>
+	<lastBuildDate>Sun, 14 Oct 2018 15:41:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">189416193</site>	<item>
+		<title>IPFS Support</title>
+		<link>/2018/10/ipfs-support/</link>
+					<comments>/2018/10/ipfs-support/#comments</comments>
+		
+		<dc:creator><![CDATA[Timothy Rogers]]></dc:creator>
+		<pubDate>Sun, 14 Oct 2018 15:21:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=4392</guid>
+
+					<description><![CDATA[It is a fact that people do not live forever, and things on the internet can happen from time to time. As the new widespread adoption of IPFS(A Decentralized Web Infrastructure), I have decided to put a copy of Zadaroo&#8217;s assets [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>It is a fact that people do not live forever, and things on the internet can happen from time to time. As the new widespread adoption of IPFS(A Decentralized Web Infrastructure), I have decided to put a copy of Zadaroo&#8217;s assets on there, so that everyone can download and help host a copy of Zadaroo&#8217;s assets as well as let it continue to be online even in the event of Zadaroo&#8217;s death or even my own. The files will always exist on the distributed network known as IPFS.</p>
+<p>You can access the files on IPFS at <a href="https://onipfs.zadaroo.com/">https://onipfs.zadaroo.com/</a> or by using any gateway with Zadaroo&#8217;s hash QmTKZFnKjXvbPcygiRhJxhfvTcpFnSr5VWrnzzmzpfFoae where you can use any public or private gateway.</p>
+<p><strong>Popular Gateways:</strong></p>
+<ul>
+<li><a href="https://gateway.ipfs.io/ipfs/QmTKZFnKjXvbPcygiRhJxhfvTcpFnSr5VWrnzzmzpfFoae">https://gateway.ipfs.io/ipfs/QmTKZFnKjXvbPcygiRhJxhfvTcpFnSr5VWrnzzmzpfFoae</a></li>
+<li><a href="https://cloudflare-ipfs.com/ipfs/QmTKZFnKjXvbPcygiRhJxhfvTcpFnSr5VWrnzzmzpfFoae">https://cloudflare-ipfs.com/ipfs/QmTKZFnKjXvbPcygiRhJxhfvTcpFnSr5VWrnzzmzpfFoae</a></li>
+</ul>
+<p><strong>IPFS</strong></p>
+<p>If you are interested in learning more about IPFS, I suggest checking it out at <a href="https://ipfs.io/">https://ipfs.io/ </a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/10/ipfs-support/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4392</post-id>	</item>
+		<item>
+		<title>Donor Thanks</title>
+		<link>/2017/12/donor-thanks/</link>
+					<comments>/2017/12/donor-thanks/#comments</comments>
+		
+		<dc:creator><![CDATA[Timothy Rogers]]></dc:creator>
+		<pubDate>Thu, 28 Dec 2017 06:43:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=4384</guid>
+
+					<description><![CDATA[I am so sorry that I haven&#8217;t been able to get to this sooner, I have been very busy. However, I want to extend my thanks to everyone who has donated to this site to help me keep it up. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I am so sorry that I haven&#8217;t been able to get to this sooner, I have been very busy. However, I want to extend my thanks to everyone who has donated to this site to help me keep it up. Here is the list of the contributors who have helped since I have taken over this site.</p>
+<ul>
+<li>Merrie Andress
+<ul>
+<li>6-8-2014 &#8211; User wanted me to disclose the amount donated, but it is to far back that I cannot get the amount for this date. My apologies to this person.
+<ul>
+<li><strong>Message:</strong> Hope this wee bit helps Tim.</li>
+</ul>
+</li>
+<li>10-8-2014 &#8211; User graciously donated again, but again that date is too far back for me to get the date. My apologies to this person.
+<ul>
+<li><strong>Message:</strong> Thank you for making all this wonderful content available for download!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Andy Damone
+<ul>
+<li>6-14-2014
+<ul>
+<li><strong>Message:</strong> Thanks for the goodies</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Jime Martin
+<ul>
+<li>9-1-2014 &#8211; User wanted me to disclose the amount donated, but it is to far back that I cannot get the amount for this date. My apologies to this person.
+<ul>
+<li><strong>Message:</strong> Thank you for making all this wonderful content available for download!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Minethere Always
+<ul>
+<li>10-27-2014</li>
+</ul>
+</li>
+<li>Taz Zarkin
+<ul>
+<li>12-19-2014
+<ul>
+<li><strong>Message:</strong> I made a donation to your site, but when I try to download files, it says your server is down. The donation button worked fine. Is there a different way to download files?</li>
+<li><strong>Response:</strong> This issue was resolved, but in the future if anyone has issues please feel free to email me[at]timothyfrancisrogers[dot]me</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Piano Faith
+<ul>
+<li>12-27-2014
+<ul>
+<li><strong>Message:</strong> It is my pleasure to give towards the up keep of this work that is being done at Zadaroo.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Redd Wolf
+<ul>
+<li>12-28-2014 &#8211; User wanted me to disclose the amount donated, but it is to far back that I cannot get the amount for this date. My apologies to this person.
+<ul>
+<li><strong>Message:</strong> I highly commend continuing to share these talented builds, hopefully this helps in keeping Zadaroo here for others</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Mat Mahognay
+<ul>
+<li>3-18-2015
+<ul>
+<li><strong>Message:</strong> love the sculpts well done <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li><strong>Response:</strong> I am glad you liked them, all these works were done by the wonderful Linda Kellie</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Selby Evans
+<ul>
+<li>5-23-2015</li>
+</ul>
+</li>
+<li>Peter Weber
+<ul>
+<li>6-19-2015
+<ul>
+<li><strong>Message:</strong> Your country cabin build is beautiful! Thank you!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Martin Eccles58
+<ul>
+<li>4-14-2017
+<ul>
+<li><strong>Message: </strong>Resident in Dynamic Worldz<br />
+grid.dynamicworldz.com:8002<br />
+Let&#8217;s keep growing the sharing of free public domain builds and objects.<br />
+Does anybody know any forest/woods/mountain OARs?</li>
+<li><strong>Response:</strong> There are a few here on this site, however I personally do not know of any. If anyone wants to reply in the comments, to help people find some.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Lyr Lobo
+<ul>
+<li>5-8-2017
+<ul>
+<li><strong>Message:</strong>Thank you for supporting education in OpenSimulator by providing free materials for students and the public to download!We deeply appreciate it!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Valiska Sei-Varun
+<ul>
+<li>12-20-2017
+<ul>
+<li><strong>Message:</strong> Linda Kellie, thank you very much!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vincent Sylvester (<a href="https://zetamex.com/">Zetamex Network</a>)
+<ul>
+<li>4-21-2017 &#8211; $15 USD</li>
+</ul>
+</li>
+</ul>
+<p>Again, a big thank you to everyone has donated. I have moved hosts to putting this on a VPS and the files hosted in object storage with OVH&#8217;s Object Storage and CloudFlare as a CDN to help cache as much of the objects as possible for better download speeds. All donations that are received go into keeping the site hosted which at this point is a little less than 90/year and I am happy to keep covering what donations don&#8217;t because I am not asking for the donations just if you want to help me keep this site up for those who still find these resources for everyone to still download.</p>
+<p>Thank you and everyone have a great New Year!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/12/donor-thanks/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4384</post-id>	</item>
+		<item>
+		<title>Zadaroo Now ~ Public Domain [CC-0]</title>
+		<link>/2015/07/zadaroo-now-public-domain-cc-0/</link>
+		
+		<dc:creator><![CDATA[Timothy Rogers]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2015 01:48:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=4374</guid>
+
+					<description><![CDATA[Zetamex has decided to officially stop funding Zadaroo. This was a decision that was not taken lightly by those at Zetamex, this was done after a considerable debate. Since the entire content of this site is licensed as Public Domain, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Zetamex has decided to officially stop funding Zadaroo. This was a decision that was not taken lightly by those at Zetamex, this was done after a considerable debate. Since the entire content of this site is licensed as Public Domain, the choice to make Zadaroo it&#8217;s own site and hosted by itself and not be a part of Zetamex anymore. The site is now setup as a static site, for all the metaverse to use without charge or any sort of cost to its visitors. This site will receive no new content nor updates, except those that patch the server running it and the software used to render the site. The site will not be going offline, and will not be accepting donations at this time, and it is up for debate if it will open donations back up or not. All content has been moved to it&#8217;s own CDN as well not hosted or sponsored by Zetamex in any way shape or form.</p>
+<p>Thank You, for the many years of support for, the ever lasting and continuing to help content for both education and hobbyists everywhere. The site will continue to function and be privately operated from this point on, for the greater good of the Metaverse.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4374</post-id>	</item>
+		<item>
+		<title>Note About Imprudence Viewer</title>
+		<link>/2013/09/note-about-imprudence-viewer/</link>
+		
+		<dc:creator><![CDATA[Timothy Rogers]]></dc:creator>
+		<pubDate>Tue, 24 Sep 2013 10:05:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/?p=4324</guid>
+
+					<description><![CDATA[Hello everyone, I want to touch on the subject of using Imprudence in OpenSimulator as of now, and I hate to bring this up to people but it is obsolete. I know that they have recently released a new beta [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Hello everyone,</p>
+<p>I want to touch on the subject of using Imprudence in OpenSimulator as of now, and I hate to bring this up to people but it is obsolete. I know that they have recently released a new beta of the viewer but it still lacks three big features that are in the 0.7.6 and some from the current stable 0.7.5 branch of OpenSimulator. We highly encurage users to consider using an alternative viewer to upload their creations to make sure their viewer can support the new features of opensimulator.</p>
+<h3>Features that Imprudence Does NOT Support</h3>
+<ul>
+<li>Jump more than 4096 regions away</li>
+<li>Mesh uploads</li>
+<li>Viewing Mesh (shows up as weird triangles)</li>
+<li>Multiple Attachments on a point</li>
+<li>Inability to see users using multiple attachments on the same point properly</li>
+<li>Build tools outdated</li>
+</ul>
+<h3>We highly recommend these two viewers for importing XML files. They both are v1 style like imprudence, but have all the new features that are needed to view worlds correctly:</h3>
+<p><strong>Cool VL Viewer:</strong> This viewer is extremely light and super fast, however is only for Linux and Windows. You can download the viewer from: <a href="http://sldev.free.fr/" target="_blank">http://sldev.free.fr/</a></p>
+<p><strong>Singularity Viewer:</strong>  This viewer is closely worked with opensimulator and is worked on almost daily, this viewer is cross platform and can be made to look like imprudence. You can download it from <a href="http://singularityviewer.org/" target="_blank">http://singularityviewer.org/</a></p>
+<p>Sincerely,</p>
+<p>Zetamex Staff</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4324</post-id>	</item>
+	</channel>
+</rss>

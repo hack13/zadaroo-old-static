@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Zadaroo	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Public Domain OpenSim Resources</description>
+	<lastBuildDate>Sun, 28 Oct 2018 10:30:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Comment on IPFS Support by Timothy Rogers		</title>
+		<link>/2018/10/ipfs-support/#comment-912</link>
+
+		<dc:creator><![CDATA[Timothy Rogers]]></dc:creator>
+		<pubDate>Sun, 28 Oct 2018 10:30:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4392#comment-912</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2018/10/ipfs-support/#comment-907&quot;&gt;John Sheppard&lt;/a&gt;.
+
+I do not have it, but the issue with adding it to Zadaroo is it has to be CC-0]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2018/10/ipfs-support/#comment-907">John Sheppard</a>.</p>
+<p>I do not have it, but the issue with adding it to Zadaroo is it has to be CC-0</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on IPFS Support by John Sheppard		</title>
+		<link>/2018/10/ipfs-support/#comment-907</link>
+
+		<dc:creator><![CDATA[John Sheppard]]></dc:creator>
+		<pubDate>Sat, 20 Oct 2018 17:17:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4392#comment-907</guid>
+
+					<description><![CDATA[Do you have Clutterfly mesh mall? Do you want it?]]></description>
+			<content:encoded><![CDATA[<p>Do you have Clutterfly mesh mall? Do you want it?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Donor Thanks by Dytska Vieria @ sl		</title>
+		<link>/2017/12/donor-thanks/#comment-795</link>
+
+		<dc:creator><![CDATA[Dytska Vieria @ sl]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2018 03:02:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4384#comment-795</guid>
+
+					<description><![CDATA[Thank you Linda.  Your creations are just awesome!  This is the only way I can find to send a thank you to you and I hope you receive it.  Dytska..]]></description>
+			<content:encoded><![CDATA[<p>Thank you Linda.  Your creations are just awesome!  This is the only way I can find to send a thank you to you and I hope you receive it.  Dytska..</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
