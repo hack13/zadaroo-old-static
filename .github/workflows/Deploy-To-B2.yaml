@@ -2,16 +2,17 @@ name: Push to B2
 on: [push]
 jobs:
   Deploy Job:
-  runs-on: ubuntu-latest
-  - uses: actions/checkout@v2
-  - name: Release site to B2
-    uses: mostlytyped/s3-put-action@v1.0.0
-    with:
-      args: --acl-public
-    env:
-      LOCAL_FILE: /
-      REMOTE_FILE: /
-      AWS_ENDPOINT: ${{ secrets.AWS_ENDPOINT }}
-      AWS_BUCKET: ${{ secrets.AWS_BUCKET }}
-      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Release site to B2
+        uses: mostlytyped/s3-put-action@v1.0.0
+        with:
+          args: --acl-public
+        env:
+          LOCAL_FILE: /
+          REMOTE_FILE: /
+          AWS_ENDPOINT: ${{ secrets.AWS_ENDPOINT }}
+          AWS_BUCKET: ${{ secrets.AWS_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
