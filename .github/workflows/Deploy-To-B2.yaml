@@ -10,7 +10,7 @@ jobs:
         with:
           args: --acl-public --recursive
         env:
-          LOCAL_FILE: /
+          LOCAL_FILE: ./
           REMOTE_FILE: /
           AWS_ENDPOINT: ${{ secrets.AWS_ENDPOINT }}
           AWS_BUCKET: ${{ secrets.AWS_BUCKET }}
