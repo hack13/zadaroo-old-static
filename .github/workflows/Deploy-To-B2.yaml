@@ -8,7 +8,7 @@ jobs:
       - name: Release site to B2
         uses: mostlytyped/s3-put-action@v1.0.0
         with:
-          args: --acl-public
+          args: --acl-public --recursive
         env:
           LOCAL_FILE: /
           REMOTE_FILE: /
